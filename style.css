@@ -1,0 +1,20 @@
+/* styles.css */
+
+body {
+    font-family: Sans-Serif; color: #666; font-size: 14px; font-style: italic;
+}
+
+.highlight-word-color{
+    color: #ffcccb;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.footer {
+    font-family:Sans-Serif; color: #666; font-size: 14px; font-style: italic;
+    color: #666;
+    font-size: 14px;
+    font-style: italic;
+}
